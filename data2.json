@@ -1,0 +1,114 @@
+[{
+
+    "num": 1,
+    "name": "RT",
+    "category": "M50",
+    "clocktime": "24:07",
+    "handicap": "04:30",
+    "origin": "land"
+  },
+  {
+    "num": 2,
+    "name": "KM",
+    "category": "M50",
+    "clocktime": "20:30",
+    "handicap": "02:20",
+    "origin": "sky"
+  },
+  {
+    "num": 3,
+    "name": "AM",
+    "category": "M50",
+    "clocktime": "17:30",
+    "handicap": "01:20",
+    "origin": "sky"
+  },
+  {
+    "num": 4,
+    "name": "KM",
+    "category": "M50",
+    "clocktime": "23:30",
+    "handicap": "02:20",
+    "origin": "sky"
+  },
+  {
+    "num": 5,
+    "name": "DZ",
+    "category": "M50",
+    "clocktime": "15:00",
+    "handicap": "03:30",
+    "origin": "sky"
+  },
+  {
+    "num": 6,
+    "name": "SD",
+    "category": "M60",
+    "clocktime": "27:00",
+    "handicap": "03:30",
+    "origin": "sea"
+  },
+  {
+    "num": 7,
+    "name": "DK",
+    "category": "M50",
+    "clocktime": "18:35",
+    "handicap": "03:00",
+    "origin": "land"
+  },
+  {
+    "num": 8,
+    "name": "BD",
+    "category": "M40",
+    "clocktime": "20:25",
+    "handicap": "05:30",
+    "origin": "sea"
+  },
+  {
+    "num": 9,
+    "name": "KC",
+    "category": "M40",
+    "clocktime": "23:45",
+    "handicap": "01:00",
+    "origin": "land"
+  },
+  {
+    "num": 10,
+    "name": "PM",
+    "category": "M40",
+    "clocktime": "21:00",
+    "handicap": "03:00",
+    "origin": "sea"
+  },
+  {
+    "num": 11,
+    "name": "NR",
+    "category": "M50",
+    "clocktime": "24:17",
+    "handicap": "02:10",
+    "origin": "land"
+  },
+  {
+    "num": 12,
+    "name": "LM",
+    "category": "M50",
+    "clocktime": "19:30",
+    "handicap": "04:00",
+    "origin": "sea"
+  },
+  {
+    "num": 13,
+    "name": "SL",
+    "category": "M60",
+    "clocktime": "20:00",
+    "handicap": "00:30",
+    "origin": "land"
+  },
+  {
+    "num": 14,
+    "name": "SL",
+    "category": "M40",
+    "clocktime": "18:20",
+    "handicap": "00:20",
+    "origin": "land"
+  }
+]
